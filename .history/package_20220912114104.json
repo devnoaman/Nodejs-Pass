@@ -1,0 +1,12 @@
+{
+  "name": "nodejspass",
+  "version": "1.0.0",
+  "description": "this repo is a solution for digitalize bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Noaman Monther",
+  "license": "MIT",
+  "private": false
+}
